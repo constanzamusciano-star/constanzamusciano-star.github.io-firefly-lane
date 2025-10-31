@@ -66,8 +66,7 @@ body {
 }
 
 .footer-icon {
-  height: 45px;         /* igual para todos */  /* asegura que no se deformen */
-}
+  height: 45px;         
 
 .footer-icon.yt {
   height: 50px;
@@ -85,4 +84,5 @@ body {
 .object-fit-cover {
   object-fit: cover;
 }
+
 
